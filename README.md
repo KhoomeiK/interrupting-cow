@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://reworkd.ai/">🔗 Agents for Web Data Extraction</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://x.com/khoomeik/">🐦 Twitter</a>
+<a href="https://twitter.com/khoomeik/status/1774282520076619916">🐦 Twitter</a>
 
 # Interrupting Cow 🐮📢
 
