@@ -16,3 +16,14 @@
 <a href="https://x.com/khoomeik/">🐦 Twitter</a>
 
 # Interrupting Cow
+
+Interruptions make conversations feel natural. Much work has focused on AI voice assistants that can *be interrupted* by humans, but systems that know much more than us should be able to *interrupt us* too.
+
+As you speak, Interrupting Cow predicts the next *K* tokens you'll say, and when it gets *N* tokens (*N < K*) correct, it becomes "confident" enough to interrupt you. It then uses the entire *K*-token prediction to generate a response.
+
+Interrupting Cow currently uses Whisper-Realtime for speech recognition, GPT-3.5-Turbo for interruption prediction, GPT-4 for response generation, and OpenAI TTS for text-to-speech.
+
+# Issues
+- [ ] refactor and modularize for use as a Python package
+- [ ] realtime speech recognition is too slow and choppy
+- [ ] migrate from GPT-3.5-Turbo to a faster local LLM

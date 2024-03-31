@@ -13,7 +13,7 @@ from queue import Queue
 from time import sleep
 from sys import platform
 
-from complete import thoughtocomplete
+from ..interruptor import thoughtocomplete
 
 
 def main():
