@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khoomeik/interrupting-cow/main/interrupting-cow.png" height="250" alt="Interrupting Cow" />
+  <img src="https://raw.githubusercontent.com/khoomeik/interrupting-cow/main/interrupting_cow.png" height="250" alt="Interrupting Cow" />
 </p>
 <p align="center">
   <em>the first AI voice assistant that interrupts *you*</em>
