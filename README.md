@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/khoomeik/interrupting-cow/main/interrupting_cow.png" height="250" alt="Interrupting Cow" />
 </p>
 <p align="center">
-  <em>the first AI voice assistant that interrupts *you*</em>
+  <em>The first AI voice assistant that interrupts *you*</em>
 </p>
 <!-- <p align="center">
     <a href="https://pypi.org/project/llamagym/" target="_blank">

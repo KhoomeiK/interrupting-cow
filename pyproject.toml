@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "interrupting-cow"
+version = "0.1.0"
+description = ""
+authors = ["Rohan Pandey"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<=3.12"
+openai = "^1.3.7"
+fuzzywuzzy = "^0.18.0"
+soundfile = "^0.12.1"
+sounddevice = "^0.4.6"
+numpy = "^1.26.2"
+openai-whisper = {git = "https://github.com/openai/whisper.git"}
+pyaudio = "^0.2.14"
+speechrecognition = "^3.10.0"
+websockets = "^12.0"
+deepgram-sdk = "^2.12.0"
+aiohttp = "^3.9.1"
+llama-cpp-python = "^0.2.20"
+python-levenshtein = "^0.23.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
